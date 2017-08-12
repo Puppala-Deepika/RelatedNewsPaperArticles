@@ -1,0 +1,12 @@
+4000
+Remains in fray#
+This would have taken the counting into the second round. In this round, the ‘surplus’ votes of the two winning candidates will have to be distributed to the remaining candidates. Mr. Shah and Ms. Irani each had a surplus of 199 votes (4,600 as against the required 4,401). How are these votes distributed?
+The second or third preference votes, if any, found on the ballot papers in which they were marked as first choice, would be taken into account. Assuming that all the 92 ballots that marked Mr. Shah and Ms. Irani as their first preference contained a second preference, it is possible that these were in favour of Mr. Rajput. The surplus of one candidate (chosen by draw of lots, as the original votes of the first two candidates are the same) will be transferred first, and, if no one has reached the qualifying value yet, the second candidate’s surplus will also be transferred.
+The value of a transferred vote, it must be pointed out, is not the same 100 given to an original first preference vote. It is calculated on a different formula. It is arrived at by dividing the surplus value by the number of ‘unexhausted ballot papers’. That is, if all 46 of Mr. Shah’s principal voters had a second preference for another candidate, each of that will have a value of 199/46 = 4.32. Under election rules, the remainder is to be ignored; so each vote has a value of 4. The value will be the same for the surplus transferred from Ms. Irani to Mr. Rajput (again assuming all 46 marked a second preference for Mr. Rajput).
+If even one of them had marked a second preference for Mr. Patel, he would go through as his tally would go up from 4,400 to 4,404, as against the required 4,401.
+However, this is not a likely scenario as all of Mr. Shah’s principal voters can be expected to have favoured Mr. Rajput as their second choice to boost his prospects and to defeat Mr. Patel.
+So, when the first lot of 46 second preference votes are transferred to Mr. Rajput, he would receive 46 x 4 = 184 points. A similar lot drawn from the votes cast principally for Ms. Irani with Mr. Rajput as second choice, would also have the same value.
+Therefore, Mr. Rajput gains 184 + 184 = 368 points. This will be added to his original vote value.
+So his tally would be 4,000 + 368 = 4,368. But, his vote will still be short of Mr. Patel’s vote value of 4,400.
+The scenario is explained in the table below:
+Second Round (Scenario 1)

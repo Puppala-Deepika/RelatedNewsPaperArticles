@@ -7,19 +7,9 @@ Setup/Installation in NetBeans IDE :
 1. software and softwareProject are NetBeans Projects. Open the projects using Netbeans.
 2. Add a new Database under services. The database used in project is named 'deepika', username 'deepika' and password 'deepika'
 3. Make the corresponding changes in code in case you use another database setup.
-4. Create a table urlsnation with the folllowing columns -
-a.url - VARCHAR
-b.yr - INTEGER
-c.month - CHAR
-d.date - INTEGER
-e.title - VARCHAR
-f.hashset - VARCHAR
-5.Run the java files in the software project in the following order-
-a.Software.java
-b.Title.java
-c.ExtractData.java
-d.HashSet.java
-6.Run the index.jsp in the SoftwareProject using any server.
+4. Create a table urlsnation with the folllowing columns - url - VARCHAR, yr - INTEGER, month - CHAR, date - INTEGER, title - VARCHAR, hashset - VARCHAR
+5. Run the java files in the software project in the following order- Software.java, Title.java, ExtractData.java, HashSet.java
+6. Run the index.jsp in the SoftwareProject using any server.
 
 Important files :
 1. /software/src/software/Software.java - Collects the newspaper atricles URLS along with published date using Jsoup.

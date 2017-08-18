@@ -31,14 +31,14 @@ Important files :
 7. /SoftwareProject/web/re.jsp - To display the content of selected article. If the mode is offline, the content is obtained from the extracted text files elsif mode is online, the cotent is extracted from corresponding webpage and is displayed.
 
 Implementation Details :
-The news articles from 5 different newspapers are extracted from their RSS feeds along with their published date.
-The content of extracted articles are preprocessed to get important words in the content removing stop-words such as pronouns, conjuctions,etc..,
-The important words are stored in the form of HashSet for each article.
-The Similarity of two articles with HashSets S1, S2 is obtained by :
+a.The news articles from 5 different newspapers are extracted from their RSS feeds along with their published date.
+b.The content of extracted articles are preprocessed to get important words in the content removing stop-words such as pronouns, conjuctions,etc..,
+c.The important words are stored in the form of HashSet for each article.
+d.The Similarity of two articles with HashSets S1, S2 is obtained by :
 similarity_score = alpha * (S1 intersection S2)/(S1 union S2) + (1 - alpha) * (S1_title intersection S2_title)/(S1_title union S2_title)
-alpha is parameter set according to the importance given to title vs content.
-If the similarity_score is above certain threhsold, the articles are regarded as similar.
-The code for data pre-processing is written in Java, the web application is built using JSP.
+e.alpha is parameter set according to the importance given to title vs content.
+f.If the similarity_score is above certain threhsold, the articles are regarded as similar.
+g.The code for data pre-processing is written in Java, the web application is built using JSP.
 
 Important tools used :
 1. Boilerpipe
